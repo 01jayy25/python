@@ -1,4 +1,3 @@
-# test_television.py
 import test.py
 from television import Television
 
